@@ -1,0 +1,9 @@
+old	current
+com.example.model.Contact	com.example.model.NewContact
+com.example.model.Contact#firstname	com.example.model.NewContact#firstname
+com.example.model.Contact#name	com.example.model.NewContact#lastname
+com.example.model.Contact#email	com.example.model.NewContact#emailAddress
+com.example.model.Contact#note	com.example.model.NewContact#supportNote
+com.example.model.Contact#postalAddress	com.example.model.NewContact#postalAddress
+com.example.model.Contact#age	com.example.model.NewContact#age
+com.example.model.Contact#link	""
